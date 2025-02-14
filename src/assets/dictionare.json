@@ -1,0 +1,17 @@
+{
+    "en": {
+        "translation": {
+            "hello world": "hello world"
+        }
+    },
+    "ru": {
+        "translation": {
+            "hello world": "Привет, мир"
+        }
+    },
+    "uz": {
+        "translation": {
+            "hello world": "salom dunyo"
+        }
+    }
+}
